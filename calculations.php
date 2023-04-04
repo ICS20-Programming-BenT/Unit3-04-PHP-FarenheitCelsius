@@ -2,7 +2,7 @@
   //Get the user input
   $tempFahrenheit = floatval($_POST["temp-fahrenheit"]);
 
-  //Perform mathematical equations and display
+  //Perform mathematical equations and display results.
   $tempCelsius = 5 / 9 * ($tempFahrenheit - 32);
   $tempCelsiusRounded = round($tempCelsius, 1);
 ?>
