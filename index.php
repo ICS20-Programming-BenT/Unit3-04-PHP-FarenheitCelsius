@@ -34,7 +34,7 @@
   		<!-- Web page heading and body text -->
       <?php 
   			echo "<h1>Converting Fahrenheit to Celsius with User Input</h1>";
-  			echo "<p>Greetings! This web page will allow you to input the temperature of your choice in Fahrenheit to calculate the equivelent temperature in Celsius. See the image below for the formula that will be used.</p>";
+  			echo "<p>Greetings! This web page will allow you to input the temperature of your choice in Fahrenheit to calculate the equivalent temperature in Celsius. See the image below for the formula that will be used.</p>";
   		?>
   
       <!-- Image -->
